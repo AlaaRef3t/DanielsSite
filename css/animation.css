@@ -1,0 +1,415 @@
+@keyframes typeEffect {
+    0% {
+        content: "|";
+    }
+
+    1% {
+        content: "D|";
+    }
+
+    2% {
+        content: "De|";
+
+    }
+
+    3% {
+        content: "Dev|";
+
+    }
+
+    4% {
+        content: "Deve|";
+
+    }
+
+    5% {
+        content: "Devel|";
+
+    }
+
+    6% {
+        content: "Develo|";
+
+    }
+
+    7% {
+        content: "Develop|";
+
+    }
+
+    8% {
+        content: "Develope|";
+
+    }
+
+    9% {
+        content: "Developer|";
+
+    }
+
+    10% {
+        content: "Developer|";
+
+    }
+
+    11% {
+        content: "Developer|";
+    }
+
+    12% {
+        content: "Developer|";
+    }
+
+    13% {
+        content: "Developer|";
+    }
+
+    14% {
+        content: "Developer|";
+    }
+
+    15% {
+        content: "Developer|";
+    }
+
+    16% {
+        content: "Developer|";
+    }
+
+    17% {
+        content: "Developer|";
+    }
+
+    18% {
+        content: "Developer|";
+    }
+
+    19% {
+        content: "Developer|";
+    }
+
+    20% {
+        content: "Developer|";
+    }
+
+    21% {
+        content: "Developer|";
+    }
+
+    22% {
+        content: "Developer|";
+    }
+
+    23% {
+        content: "Developer|";
+    }
+
+    24% {
+        content: "Develope|";
+    }
+
+    25% {
+        content: "Develop|";
+    }
+
+    26% {
+        content: "Develo|";
+    }
+
+    27% {
+        content: "Devel|";
+    }
+
+    28% {
+        content: "Deve|";
+    }
+
+    29% {
+        content: "Dev|";
+    }
+
+    30% {
+        content: "De|";
+    }
+
+    31% {
+        content: "D|";
+    }
+
+    32% {
+        content: "|";
+    }
+
+    33% {
+        content: "|";
+    }
+
+    34% {
+        content: "D|";
+    }
+
+    35% {
+        content: "De|";
+    }
+
+    36% {
+        content: "Des|";
+    }
+
+    37% {
+        content: "Desi|";
+    }
+
+    38% {
+        content: "Desig|";
+    }
+
+    39% {
+        content: "Design|";
+    }
+
+    40% {
+        content: "Designe|";
+    }
+
+    41% {
+        content: "Designer|";
+    }
+
+    42% {
+        content: "Designer|";
+    }
+
+    43% {
+        content: "Designer|";
+    }
+
+    44% {
+        content: "Designer|";
+    }
+
+    45% {
+        content: "Designer|";
+    }
+
+    46% {
+        content: "Designer|";
+    }
+
+    47% {
+        content: "Designer|";
+    }
+
+    48% {
+        content: "Designer|";
+    }
+
+    49% {
+        content: "Designer|";
+    }
+
+    50% {
+        content: "Designer|";
+    }
+
+    51% {
+        content: "Designer|";
+    }
+
+    52% {
+        content: "Designer|";
+    }
+
+    53% {
+        content: "Designer|";
+    }
+
+    54% {
+        content: "Designer|";
+    }
+
+    55% {
+        content: "Designer|";
+    }
+
+    56% {
+        content: "Designe|";
+    }
+
+    57% {
+        content: "Design|";
+    }
+
+    58% {
+        content: "Desig|";
+    }
+
+    59% {
+        content: "Desi|";
+    }
+
+    60% {
+        content: "Des|";
+    }
+
+    61% {
+        content: "De|";
+    }
+
+    62% {
+        content: "D|";
+    }
+
+    63% {
+        content: "|";
+    }
+
+    64% {
+        content: "|";
+    }
+
+    65% {
+        content: "|";
+    }
+
+    66% {
+        content: "L|";
+    }
+
+    67% {
+        content: "La|";
+    }
+
+    68% {
+        content: "Lar|";
+    }
+
+    69% {
+        content: "Larr|";
+    }
+
+    70% {
+        content: "Larry|";
+    }
+
+    71% {
+        content: "Larry D|";
+    }
+
+    72% {
+        content: "Larry Da|";
+    }
+
+    73% {
+        content: "Larry Dan|";
+    }
+
+    74% {
+        content: "Larry Dani|";
+    }
+
+    75% {
+        content: "Larry Danie|";
+    }
+
+    76% {
+        content: "Larry Daniels|";
+    }
+
+    77% {
+        content: "Larry Daniels|";
+    }
+
+    78% {
+        content: "Larry Daniels|";
+    }
+
+    79% {
+        content: "Larry Daniels|";
+    }
+
+    80% {
+        content: "Larry Daniels|";
+    }
+
+    81% {
+        content: "Larry Daniels|";
+    }
+
+    82% {
+        content: "Larry Daniels|";
+    }
+
+    83% {
+        content: "Larry Daniels|";
+    }
+
+    84% {
+        content: "Larry Daniels|";
+    }
+
+    85% {
+        content: "Larry Daniels|";
+    }
+
+    86% {
+        content: "Larry Daniels|";
+    }
+
+    87% {
+        content: "Larry Daniel|";
+    }
+
+    88% {
+        content: "Larry Danie|";
+    }
+
+    89% {
+        content: "Larry Dani|";
+    }
+
+    90% {
+        content: "Larry Dan|";
+    }
+
+    91% {
+        content: "Larry Da|";
+    }
+
+    92% {
+        content: "Larry D|";
+    }
+
+    93% {
+        content: "Larry|";
+    }
+
+    94% {
+        content: "Larr|";
+    }
+
+    95% {
+        content: "Lar|";
+    }
+
+    96% {
+        content: "La|";
+    }
+
+    97% {
+        content: "L|";
+    }
+
+    98% {
+        content: "|";
+    }
+
+    99% {
+        content: "|";
+    }
+
+    100% {
+        content: "|";
+    }
+
+}

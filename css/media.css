@@ -1,0 +1,76 @@
+/* Media Queries for Responsive Design */
+@media screen and (min-width:768px) {
+
+    header {
+        background-image: url(../images/bg.jpg);
+        background-size: cover;
+        background-position: top;
+        background-attachment: fixed;
+        height: 100vh;
+        position: relative;
+    }
+
+    header .main-header .header-caption h5 {
+        font-size: 3.125rem;
+        font-weight: 800;
+        margin-bottom: 10px;
+    }
+
+    header .main-header .header-caption h1 {
+        font-weight: 200;
+        font-size: 3.4375rem;
+        margin-bottom: 20px;
+    }
+
+    header .main-header .header-caption span::after {
+        content: "";
+        display: inline-block;
+        animation: typeEffect 6s infinite;
+        font-weight: 400;
+        font-size: 3.4375rem;
+    }
+
+    .contact .special-padd {
+        padding: 0 80px 0 80px;
+    }
+}
+
+@media screen and (min-width:992px) {
+    .about .about-img img {
+        width: 80%;
+    }
+
+}
+
+@media screen and (min-width:1024px) {
+    .about .about-img img {
+        width: 100%;
+    }
+
+    .general-head {
+        position: relative;
+        padding: 40px 0;
+    }
+
+    .general-head h2 {
+        font-size: 2.5rem;
+        font-weight: 800;
+        text-align: center;
+        position: relative;
+        z-index: 2;
+        color: RGB(52, 52, 52);
+    }
+
+    .general-head h2::after {
+        content: "";
+        position: absolute;
+        width: 22%;
+        height: 50%;
+        left: 50%;
+        transform: translateX(-50%);
+        bottom: 0px;
+        background-image: url(../images/dots.png);
+        background-repeat: repeat;
+        z-index: -1;
+    }
+}
